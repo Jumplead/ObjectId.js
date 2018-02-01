@@ -1,0 +1,19 @@
+{
+  "name": "@jumplead/objectid",
+  "version": "1.0.1",
+  "description": "A javascript implementation of a BSON ObjectId.",
+  "main": "src/main/javascript/Objectid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jumplead/ObjectId.js.git"
+  },
+  "author": "Adam Curtis <me@alc.im> (http://alc.im)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jumplead/ObjectId.js/issues"
+  },
+  "homepage": "https://github.com/Jumplead/ObjectId.js#readme"
+}
